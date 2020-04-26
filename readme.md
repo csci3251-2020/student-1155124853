@@ -13,7 +13,7 @@ Hi. My name is Nam Man Leung and I am a year2 CS student.
 -[ ] Do Well
 -[X] Play well
 
-### Table 
+## Table 
 Course       | workload |
 -------------|----------|
 CSCI 2430    | high     |
