@@ -9,9 +9,9 @@ Hi. My name is Nam Man Leung and I am a year2 CS student.
 * Python
 
 ### Task
--[X] Sleep Well
--[ ] Do Well
--[X] Play well
+[X] Sleep Well
+[ ] Do Well
+[X] Play well
 
 ## Table 
 Course       | workload |
